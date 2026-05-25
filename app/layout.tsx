@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   authors: [{ name: "Akshay Kumar Pathak" }],
   creator: "Akshay Kumar Pathak",
   openGraph: {
-    title: "Akshay Kumar Pathak | Futuristic Frontend Engineer",
+    title: "Akshay Kumar Pathak | Frontend Engineer | Software Engineer",
     description: "Senior-grade frontend engineering, scalable dashboards, ERP products, and cinematic UI craftsmanship.",
     url: "https://akshaypathak.dev",
     siteName: "Akshay Kumar Pathak Portfolio",

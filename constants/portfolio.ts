@@ -4,7 +4,7 @@ export const profile = {
   name: "Akshay Kumar Pathak",
   headline: "Innovative React & Frontend Developer | Software Engineer",
   experience: "3.5+ Years Experience",
-  tagline: "Crafting scalable digital experiences with futuristic frontend engineering.",
+  tagline: "Crafting scalable digital experiences with software engineering.",
   email: "akshaypathak.dev@gmail.com",
   phone: "+91 7004765080",
   linkedin: "https://linkedin.com/in/pathakakshay-dev",
